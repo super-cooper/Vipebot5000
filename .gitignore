@@ -40,4 +40,4 @@ captures/
 *.jks
 
 # Django secret key
-django_secret.py
+django_secret_key.py
