@@ -41,3 +41,6 @@ captures/
 
 # Django secret key
 django_secret_key.py
+
+# Pycache
+*.pyc
